@@ -1,8 +1,8 @@
 # Sales Analysis Using Various Factors like city,day, etc
-# OBJECTIVE
-# Upon initial inspection of the data, we can start thinking of some questions about it that we would want to answer.
+# *OBJECTIVE
+# *Upon initial inspection of the data, we can start thinking of some questions about it that we would want to answer.
 
-# What is the overall sales trend?
+# *What is the overall sales trend?
 
 # Which are the Top 10 products by sales?
 
